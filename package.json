@@ -1,0 +1,22 @@
+{
+  "name": "11ty-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "11ty": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbersepp/11ty-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbersepp/11ty-example/issues"
+  },
+  "homepage": "https://github.com/gabbersepp/11ty-example#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
